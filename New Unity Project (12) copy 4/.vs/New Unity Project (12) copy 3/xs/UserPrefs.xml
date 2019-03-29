@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{1071FDE8-BC60-C359-9EE8-D357AB8B4007}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/SpawnPeople.cs">
+    <Files>
+      <File FileName="Assets/SpawnPeople.cs" Line="68" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

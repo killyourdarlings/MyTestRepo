@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{52E5EB38-EFB7-221E-B710-F24C1C5EB5B3}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Copying.cs">
+    <Files>
+      <File FileName="Assets/Copying.cs" Line="34" Column="1" />
+      <File FileName="Assets/PeopleLayerBlanket.cs" Line="18" Column="7" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

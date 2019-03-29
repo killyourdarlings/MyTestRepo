@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/scene kyle.unity
+  isLoaded: 1
+  isActive: 1
